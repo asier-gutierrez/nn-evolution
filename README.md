@@ -30,7 +30,7 @@ See our pre-print on arXiv: https://arxiv.org/abs/2106.00012
 
 Cite our paper:
 ```
-@misc{gutiérrez-fandiño2021nnph,
+@misc{gutierrez-fandino2021nnph,
       title={Persistent Homology Captures the Generalization of Neural Networks Without A Validation Set}, 
       author={Asier Gutiérrez-Fandiño and David Pérez-Fernández and Jordi Armengol-Estapé and Marta Villegas},
       year={2021},
